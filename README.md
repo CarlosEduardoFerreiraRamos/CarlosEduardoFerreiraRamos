@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+<table border="0">
+ <tr>
+    <td>![CarlosEduardoFerreiraRamos Status](https://github-readme-stats.vercel.app/api?username=CarlosEduardoFerreiraRamos&show_icons=true)</td>
+    <td>[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoFerreiraRamos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</td>
+ </tr>
+</table>
 
-![CarlosEduardoFerreiraRamos Status](https://github-readme-stats.vercel.app/api?username=CarlosEduardoFerreiraRamos&show_icons=true)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoFerreiraRamos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **CarlosEduardoFerreiraRamos/CarlosEduardoFerreiraRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
